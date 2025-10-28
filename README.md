@@ -85,7 +85,7 @@ Load training and prediction datasets from Excel files.
 ## 数据格式要求 / Data Requirements  
 
 ### 训练数据 / `train_data.xlsx`  
-必须包含以下列：
+必须包含以下列：  
 The following columns must be included:    
 - 城市编号   
   City ID  
