@@ -5,7 +5,7 @@
 
 ## 项目简介 / Project Overview 
 
-**特别注意** ：由于涉及地方政府的具体财政情况以及使用者的不同需要，为不影响结果的准确性，模型的训练和测试数据文件（train_data.xlsx、test_data.xlsx）**默认无内容**，需使用者根据自身需求填充数据后才能确保模型结果准确，文档内无数据则程序报错。
+**特别注意** ：由于涉及地方政府的具体财政情况以及使用者的不同需要，为不影响结果的准确性，模型的训练和测试数据文件（train_data.xlsx、test_data.xlsx）**默认无内容**，需使用者根据自身需求填充数据后才能确保模型结果准确，文档内无数据则程序报错。  
 Important Note: Due to the involvement of local governments' specific fiscal situations and the different needs of users, to avoid affecting the accuracy of results, the model's training and test data files (train_data.xlsx, test_data.xlsx) are empty by default. Users must fill in the data according to their own needs to ensure the accuracy of the model results. The program will report an error if there is no data in the files.
 
 本项目基于 **PyTorch TabNet** 框架，构建了一个用于预测地方政府财政多维指标的时序预测模型。  
