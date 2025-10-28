@@ -98,7 +98,7 @@ The following columns must be included:
 
 ### 预测输入 / `test_data.xlsx`  
 -包含需预测的城市与年份信息。   
- It contains information of the cities and years to be predicted. 
+ It contains information of the cities and years to be predicted.   
 -特征可缺失，程序将自动填补。    
  Features may be missing, and the program will automatically impute them.
 
