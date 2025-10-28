@@ -87,9 +87,9 @@ Load training and prediction datasets from Excel files.
 ### 训练数据 / `train_data.xlsx`  
 必须包含以下列：
 The following columns must be included:  
-- 城市编号 
+- 城市编号   
   City ID  
-- 年份 
+- 年份   
   Year  
 - 城市类型、规模、是否省会、是否沿海等分类属性  
   Categorical attributes such as city type, size, whether it is a provincial capital, and whether it is coastal
@@ -97,9 +97,9 @@ The following columns must be included:
   All fiscal target columns (refer to the above table)  
 
 ### 预测输入 / `test_data.xlsx`  
--包含需预测的城市与年份信息。 
+-包含需预测的城市与年份信息。   
  It contains information of the cities and years to be predicted. 
--特征可缺失，程序将自动填补。  
+-特征可缺失，程序将自动填补。    
  Features may be missing, and the program will automatically impute them.
 
 ---
