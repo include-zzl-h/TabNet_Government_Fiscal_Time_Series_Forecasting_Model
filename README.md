@@ -93,7 +93,7 @@ The following columns must be included:
   Year  
 - 城市类型、规模、是否省会、是否沿海等分类属性  
   Categorical attributes such as city type, size, whether it is a provincial capital, and whether it is coastal
-- 所有财政目标列（参考上表）
+- 所有财政目标列（参考上表）  
   All fiscal target columns (refer to the above table)  
 
 ### 预测输入 / `test_data.xlsx`  
